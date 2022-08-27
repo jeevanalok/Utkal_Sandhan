@@ -1,0 +1,19 @@
+{
+  "name": "utkal_sandhan",
+  "version": "1.0.0",
+  "description": "hackathon proj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanalok/Utkal_Sandhan.git"
+  },
+  "author": "jas.js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanalok/Utkal_Sandhan/issues"
+  },
+  "homepage": "https://github.com/jeevanalok/Utkal_Sandhan#readme"
+}
